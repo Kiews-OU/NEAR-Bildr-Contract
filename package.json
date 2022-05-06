@@ -1,0 +1,15 @@
+{
+  "name": "near-protocol",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "asbuild": "^0.2.0",
+    "assemblyscript": "^0.20.4",
+    "global": "^4.4.0",
+    "near-cli": "^3.2.0"
+  },
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
